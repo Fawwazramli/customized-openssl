@@ -1,2 +1,2 @@
 # customized-openssl
-testing project
+MINDEF to implement
